@@ -1,6 +1,6 @@
-### Smart Rental Pricing: Data Gathering and Storage
+# Smart Rental Pricing: Data Gathering and Storage
 
-#### Project Overview
+## Project Overview
 
 This mentorship project focuses on building a comprehensive, end-to-end data pipeline system to collect, process, and analyze real estate rental and sales listings from online sources.
 
@@ -8,7 +8,7 @@ The system will scrape property data from websites, clean and structure it, stor
 
 By completing this project, the mentee will gain practical experience across web scraping, data engineering, backend development, DevOps, and software engineering best practices.
 
-#### Project Goal
+## Project Goal
 
 To develop a data-driven system that automates the collection, cleaning, storage, and serving of real estate listings, enabling:
 
@@ -17,7 +17,7 @@ To develop a data-driven system that automates the collection, cleaning, storage
 - Better decision-making for renters, buyers, and landlords
 - A foundation for future analytics like price prediction and geographic trends
 
-#### Why This Project Matters
+## Why This Project Matters
 
 - **Real-World Impact**: Builds a tool with meaningful social and economic benefits
 - **Full-Stack Experience**: Combines scraping, backend, API, DevOps, and analytics
@@ -25,62 +25,62 @@ To develop a data-driven system that automates the collection, cleaning, storage
 - **Foundation for ML/AI** → Sets the stage for integrating machine learning price prediction models and dashboards
 
 ---
-#### Learning Objectives
+## Learning Objectives
 
 Mentee will gain hands-on experience with:
 
-##### Web Scraping & Automation
+### Web Scraping & Automation
 - Dynamic website interaction with Selenium
 - Handling pagination, retries, and error resilience
 
-##### Data Engineering
+### Data Engineering
 - Building robust ETL pipelines
 - Data cleaning, normalization, and feature engineering
 
-##### API Development
+### API Development
 - Designing RESTful APIs with FastAPI
 - Database interactions using SQLAlchemy
 - Versioning, authentication, and documentation
 
-##### DevOps Practices
+### DevOps Practices
 - Containerization with Docker
 - Environment management with Dynaconf
 - Logging, monitoring, and deployments
 
-##### Software Engineering Best Practices
+### Software Engineering Best Practices
 - Modular, scalable architecture
 - Test-driven development with Pytest
 - Version control with Git and CI/CD readiness
 
 ---
-#### Project Components
+## Project Components
 
-##### Data Collection Module
+### Data Collection Module
 - Web scraper to extract property listings
 - Pagination and dynamic loading handling
 - Error handling and retry mechanisms
 
-##### Data Cleaning Pipeline
+### Data Cleaning Pipeline
 - Normalizing location, price, and size fields
 - Feature extraction (e.g., number of bedrooms, amenities)
 - Outlier detection and correction
 
-##### Database Layer
+### Database Layer
 - Schema design for storing listings
 - Alembic migrations for schema evolution
 - Optimized queries for filtering and analytics
 
-##### API Service
+### API Service
 - REST endpoints to access listings
 - Query parameters for filtering by price, location, date, etc.
 - Rate limiting and optional authentication
 
-##### Deployment Configuration
+### Deployment Configuration
 - Docker + docker-compose setup for local/production environments
 - Environment-specific configurations
 - Logging and resource management
 
-#### Expected Deliverables
+## Expected Deliverables
 
 - Fully automated data pipeline to collect real estate listings
 - Cleaned and structured dataset saved in a relational database
@@ -89,7 +89,7 @@ Mentee will gain hands-on experience with:
 - Well-documented codebase, API docs, and deployment instructions
 
 ---
-#### Technologies & Tools
+## Technologies & Tools
 
 | Area | Tools |
 |------|-------|
@@ -106,7 +106,7 @@ Mentee will gain hands-on experience with:
 | Exploration | Jupyter Notebooks |
 
 ---
-#### Proposed Timeline (Flexible)
+## Proposed Timeline (Flexible)
 
 | Phase | Duration |
 |-------|----------|
