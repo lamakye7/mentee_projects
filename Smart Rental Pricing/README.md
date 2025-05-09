@@ -5,7 +5,7 @@
 > **LinkedIn Profile:** [Linkedin](https://www.linkedin.com/in/d-adark/)
 
 ---
-#### Table of Contents
+## Table of Contents
 
 - [Table of Contents](#table-of-contents)
 - [Problem Statement](#problem-statement)
@@ -19,7 +19,7 @@
 - [Technology Stack](#technology-stack)
 - [KPIs \& Evaluation Metrics](#kpis--evaluation-metrics)
 
-#### Problem Statement
+## Problem Statement
 
 Ghana's rental housing market is highly fragmented, informal, and lacks pricing transparency. With no standardized pricing mechanisms or centralized listings platform, most tenants and landlords rely on guesswork, agent recommendations, or informal networks such as WhatsApp groups and roadside signboards to determine rental prices.
 
@@ -31,7 +31,7 @@ This lack of structure has led to:
 - Longer listing times and tenant frustrations
 - Missed investment opportunities due to poor data visibility
 
-#### Supporting Statistics & Evidence
+## Supporting Statistics & Evidence
 
 | Key Insight                  | Data Point / Source                                                                                      |
 |------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -44,14 +44,14 @@ This lack of structure has led to:
 
 **Sources:** Ghana Statistical Service (GSS), Ministry of Works & Housing, World Bank Urbanization Review, Jiji Ghana, MeQasa, Tonaton
 
-#### Why This Is a Problem
+## Why This Is a Problem
 
 - There is no pricing transparency. As such, tenants can't determine if a listing is overpriced, and landlords often price arbitrarily.
 - No platform to analyze trends, recommend better alternatives, or visualize market dynamics.
 - Also, informal listings and lack of data make it difficult for policymakers to understand supply-demand dynamics.
 - Agents dominate pricing decisions, introducing bias and inefficiency.
 
-#### Project Goal
+## Project Goal
 
 The main goal of this project is to build a data-driven rental intelligence system to help:
 
@@ -61,7 +61,7 @@ The main goal of this project is to build a data-driven rental intelligence syst
 - Policy Makers understand housing gaps
 
 ---
-#### Use Cases & Stakeholders
+## Use Cases & Stakeholders
 
 | Use Case                  | Stakeholder          | Value                                                       |
 |---------------------------|----------------------|-------------------------------------------------------------|
@@ -72,7 +72,7 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | Supply-demand dashboard   | Policy Makers / NGOs | Gain insights into affordability and availability trends    |
 
 ---
-#### Core Features
+## Core Features
 
 | Feature                  | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -82,7 +82,7 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | NLP Listing Insights     | (Optional) Auto-summarize or evaluate listing quality                       |
 
 ---
-#### Dataset
+## Dataset
 
 | Component         | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -94,7 +94,7 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | Volume (Estimate) | ~500–1000+ listings per scrape, depending on frequency and filtering        |
 
 ---
-#### Methodology
+## Methodology
 
 | Step                       | Description                                                                 |
 |----------------------------|-----------------------------------------------------------------------------|
@@ -109,7 +109,7 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | 9. Monitoring              | Track drift, prediction errors, API usage via Evidently AI, MLflow & Airflow               |
 
 ---
-#### Technology Stack
+## Technology Stack
 
 | Layer               | Tools                                                                 |
 |---------------------|-----------------------------------------------------------------------|
@@ -130,7 +130,7 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | Monitoring          | MLflow, Evidently AI, ZenML                                           |
 
 ---
-#### KPIs & Evaluation Metrics
+## KPIs & Evaluation Metrics
 
 | Component             | Metric                                                              |
 |-----------------------|---------------------------------------------------------------------|
