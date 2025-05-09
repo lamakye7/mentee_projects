@@ -24,7 +24,6 @@ To transform the Smart Rental Pricing System into an intelligent market analysis
 - **Market Value**: Develops highly sought-after skills in ML and data science
 - **Social Impact**: Improves market transparency and decision-making quality for users
 
----
 ## Learning Objectives
 
 Mentee will gain hands-on experience with:
@@ -53,7 +52,6 @@ Mentee will gain hands-on experience with:
 - Continuous learning and model updating
 - Responsible AI practices and bias detection
 
----
 ## Project Components
 
 ### Price Prediction Models
@@ -81,7 +79,6 @@ Mentee will gain hands-on experience with:
 - Geographic analysis tools with interactive mapping capabilities
 - Documentation and tutorials for all new features
 
----
 ## Technologies & Tools
 
 | Area | Tools |
@@ -93,7 +90,6 @@ Mentee will gain hands-on experience with:
 | Scheduling | Celery, Airflow, Prefect |
 | Data Quality | Great Expectations, Pandera |
 
----
 ## Proposed Timeline (Flexible)
 
 | Phase | Duration |
@@ -102,7 +98,6 @@ Mentee will gain hands-on experience with:
 | Dashboard Implementation | 2 weeks |
 | Geographic Analysis | 2 weeks |
 
----
 ## Implementation Approach
 
 ### Phase 1: Price Prediction Models

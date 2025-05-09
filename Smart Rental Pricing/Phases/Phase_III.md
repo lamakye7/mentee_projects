@@ -24,7 +24,6 @@ To create an intelligent property recommendation system that:
 - **Technical Sophistication**: Represents a high-value, complex system design challenge
 - **Business Impact**: Significantly enhances platform utility and user retention
 
----
 ## Learning Objectives
 
 Mentee will gain hands-on experience with:
@@ -55,7 +54,6 @@ Mentee will gain hands-on experience with:
 - Bias detection and fairness considerations
 - Diversity and serendipity optimization
 
----
 ## Project Components
 
 ### Recommendation Engine Core
@@ -76,7 +74,6 @@ Mentee will gain hands-on experience with:
 - User satisfaction measurement
 - Algorithm comparison and selection tools
 
----
 ## Expected Deliverables
 
 - Recommendation engine with multiple algorithm implementations
@@ -84,7 +81,6 @@ Mentee will gain hands-on experience with:
 - Comprehensive testing and evaluation framework
 - Documentation and performance analysis reports
 
----
 ## Technologies & Tools
 
 | Area | Tools |
@@ -94,7 +90,6 @@ Mentee will gain hands-on experience with:
 | Data Processing | NumPy, Pandas, Polars |
 | Experimentation | MLflow, Weights & Biases |
 
----
 ## Proposed Timeline (Flexible)
 
 | Phase | Duration |
@@ -104,7 +99,6 @@ Mentee will gain hands-on experience with:
 | Integration & UI Components | 2 weeks |
 | Evaluation & Optimization | 2 weeks |
 
----
 ## Implementation Approach
 
 ### Phase 1: Requirements & Data Preparation
@@ -135,7 +129,6 @@ Mentee will gain hands-on experience with:
 4. Optimize for diversity and coverage
 5. Fine-tune algorithms based on real-world performance
 
----
 ## Recommendation Approaches
 
 ### Content-Based Filtering

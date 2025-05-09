@@ -4,7 +4,6 @@
 > **Github Profile:** [Github](https://github.com/adark-d)  
 > **LinkedIn Profile:** [Linkedin](https://www.linkedin.com/in/d-adark/)
 
----
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
@@ -60,7 +59,6 @@ The main goal of this project is to build a data-driven rental intelligence syst
 - Investors identify high-growth neighborhoods
 - Policy Makers understand housing gaps
 
----
 ## Use Cases & Stakeholders
 
 | Use Case                  | Stakeholder          | Value                                                       |
@@ -71,7 +69,6 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | Personalized search       | Renters              | Discover suitable listings efficiently                      |
 | Supply-demand dashboard   | Policy Makers / NGOs | Gain insights into affordability and availability trends    |
 
----
 ## Core Features
 
 | Feature                  | Description                                                                 |
@@ -81,7 +78,6 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | Trend Dashboard          | Interactive heatmaps and trend lines for pricing across neighborhoods       |
 | NLP Listing Insights     | (Optional) Auto-summarize or evaluate listing quality                       |
 
----
 ## Dataset
 
 | Component         | Description                                                                 |
@@ -93,7 +89,6 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | Enrichment        | Geocoded neighborhoods using GeoPy, normalized amenities, converted prices  |
 | Volume (Estimate) | ~500–1000+ listings per scrape, depending on frequency and filtering        |
 
----
 ## Methodology
 
 | Step                       | Description                                                                 |
@@ -108,7 +103,6 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | 8. Dashboarding            | Build Streamlit app for trend visualization and user insights                |
 | 9. Monitoring              | Track drift, prediction errors, API usage via Evidently AI, MLflow & Airflow               |
 
----
 ## Technology Stack
 
 | Layer               | Tools                                                                 |
@@ -129,7 +123,6 @@ The main goal of this project is to build a data-driven rental intelligence syst
 | CI/CD               | GitHub Actions                                                        |
 | Monitoring          | MLflow, Evidently AI, ZenML                                           |
 
----
 ## KPIs & Evaluation Metrics
 
 | Component             | Metric                                                              |

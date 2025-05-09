@@ -24,7 +24,6 @@ To develop a data-driven system that automates the collection, cleaning, storage
 - **Career-Ready Skills**: Aligns with core competencies demanded in software, data, and ML engineering roles
 - **Foundation for ML/AI** → Sets the stage for integrating machine learning price prediction models and dashboards
 
----
 ## Learning Objectives
 
 Mentee will gain hands-on experience with:
@@ -52,7 +51,6 @@ Mentee will gain hands-on experience with:
 - Test-driven development with Pytest
 - Version control with Git and CI/CD readiness
 
----
 ## Project Components
 
 ### Data Collection Module
@@ -88,7 +86,6 @@ Mentee will gain hands-on experience with:
 - Docker setup for reproducible deployment
 - Well-documented codebase, API docs, and deployment instructions
 
----
 ## Technologies & Tools
 
 | Area | Tools |
@@ -105,7 +102,6 @@ Mentee will gain hands-on experience with:
 | Testing | Pytest |
 | Exploration | Jupyter Notebooks |
 
----
 ## Proposed Timeline (Flexible)
 
 | Phase | Duration |
