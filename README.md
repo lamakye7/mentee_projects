@@ -20,7 +20,7 @@ Each project is organized in its own directory with materials and instructions.
 1. Clone this repository
 2. Navigate to the project of interest
 3. Follow the project-specific instructions in the README
-4. Use this [data science project template](https://github.com/adark-d/data-science-project-template) as a starter. Click on the green `Use template` button on the top right of the repo. 
+4. Use this [data science project template](https://github.com/adark-d/data-science-project-template) as a starter. Click on the green `Use this template` button on the top right of the repo. 
 
 ## Contributing
 
