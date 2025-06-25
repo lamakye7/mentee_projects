@@ -1,7 +1,8 @@
 
-> **Project Title:** Smart Rental Pricing and Recommendation System for Ghana  
-> **Project Owner:** David Adarkwah  
-> **Github Profile:** [Github](https://github.com/adark-d)  
+> **Project Title:** Smart Rental Pricing and Recommendation System for Ghana
+> > **Project Owner:** Louis Amakye
+> **Project Supervisor:** David Adarkwah  
+> **Github Profile:** [Github](https://github.com/lamakye7)  
 > **LinkedIn Profile:** [Linkedin](https://www.linkedin.com/in/d-adark/)
 
 ## Table of Contents
