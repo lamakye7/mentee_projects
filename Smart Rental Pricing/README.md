@@ -3,7 +3,7 @@
 > > **Project Owner:** Louis Amakye
 > **Project Supervisor:** David Adarkwah  
 > **Github Profile:** [Github](https://github.com/lamakye7)  
-> **LinkedIn Profile:** [Linkedin](https://www.linkedin.com/in/d-adark/)
+> **LinkedIn Profile:** [Linkedin](https://www.linkedin.com/in/louis-amakye-34358816b/)
 
 ## Table of Contents
 
